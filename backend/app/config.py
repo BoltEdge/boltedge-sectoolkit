@@ -115,7 +115,7 @@ class ProductionConfig(Config):
 
     DEBUG = False
     SQLALCHEMY_DATABASE_URI = os.getenv("DATABASE_URL")
-    RATELIMIT_STORAGE_URI = os.getenv("RATELIMIT_STORAGE_URI", "redis://localhost:6379/0")
+    RATELIMIT_STORAGE_URI = os.getenv("RATELIMIT_STORAGE_URI", "memory://")
     CORS_ORIGINS = os.getenv("CORS_ORIGINS", "https://sectoolkit.boltedge.co").split(",")
 
     def __init__(self):

@@ -1,48 +1,37 @@
 # ============================================
 # BoltEdge SecToolkit — Backend Dependencies
 # ============================================
-
 # --- Framework ---
 Flask==3.1.0
 Flask-CORS==5.0.1
 Flask-Limiter==3.9.0
 Flask-SQLAlchemy==3.1.1
-
 # --- Database ---
 SQLAlchemy==2.0.36
-
+psycopg2-binary==2.9.9
 # --- DNS ---
-dnspython==2.7.0
-
+dnspython
 # --- Network ---
 httpx==0.28.1
 beautifulsoup4==4.12.3
 scapy==2.6.1
-
 # --- GeoIP ---
 geoip2==4.8.1
 maxminddb==2.6.2
-
 # --- WHOIS ---
 python-whois==0.9.4
-
+ipwhois
 # --- SSL/TLS ---
 pyOpenSSL==24.3.0
 cryptography==44.0.0
-
 # --- Email ---
 dkimpy==1.1.8
-
 # --- Scheduling ---
 APScheduler==3.10.4
-
 # --- Environment ---
 python-dotenv==1.0.1
-
 # --- Server ---
 gunicorn==23.0.0
-
 # --- Utilities ---
-ipwhois==1.2.0
 validators==0.34.0
 user-agents==2.2.0
