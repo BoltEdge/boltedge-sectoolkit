@@ -1,0 +1,64 @@
+# ============================================
+# BoltEdge SecToolkit — .gitignore
+# ============================================
+
+# --- Environment & Secrets ---
+.env
+.env.local
+.env.production
+.env.*.local
+
+# --- Python / Backend ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+*.egg
+dev.db
+*.db
+*.sqlite3
+
+# --- Node / Frontend ---
+node_modules/
+.next/
+out/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# --- Data Files (large / licensed) ---
+backend/app/data/*.mmdb
+backend/app/data/GeoLite2-*.mmdb
+backend/app/data/mitre/
+backend/app/data/wappalyzer/
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# --- IDE ---
+.vscode/
+.idea/
+*.iml
+
+# --- Docker ---
+docker-compose.override.yml
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Coverage & Testing ---
+.coverage
+htmlcov/
+.pytest_cache/
+coverage/

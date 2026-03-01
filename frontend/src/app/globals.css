@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #060b18;
+  --card: #0a0f1e;
+  --card-alt: #0d1325;
+  --primary: #f97316;
+  --primary-light: #fb923c;
+  --primary-dim: #ea580c;
+  --cyan: #06b6d4;
+  --teal: #14b8a6;
+  --white: #ffffff;
+  --foreground: #e4e4e7;
+  --muted: #94a3b8;
+  --subtle: #64748b;
+  --label: #475569;
+  --border: rgba(255, 255, 255, 0.06);
+  --border-hover: rgba(255, 255, 255, 0.12);
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--bg);
+  color: var(--muted);
+  font-family: var(--font-inter), 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: radial-gradient(circle, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 32px 32px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+body::after {
+  content: "";
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background:
+    radial-gradient(circle at 50% 20%, rgba(249, 115, 22, 0.05) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(251, 146, 60, 0.03) 0%, transparent 50%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+::selection { background: rgba(249, 115, 22, 0.3); color: #fff; }
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(255, 255, 255, 0.1); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(255, 255, 255, 0.2); }
+
+@layer utilities {
+  .label-mono {
+    @apply font-mono text-[10px] font-semibold uppercase tracking-wider;
+    color: var(--label);
+  }
+  .eyebrow {
+    @apply font-mono text-[11px] font-semibold uppercase tracking-[0.14em];
+    color: var(--primary);
+  }
+  .card-base {
+    @apply rounded-2xl transition-all;
+    border: 1px solid var(--border);
+    background: rgba(255, 255, 255, 0.015);
+  }
+  .card-hover:hover {
+    border-color: var(--border-hover);
+    background: rgba(255, 255, 255, 0.03);
+  }
+}
+
+@keyframes ping-slow { 75%, 100% { transform: scale(2.2); opacity: 0; } }
+.animate-ping-slow { animation: ping-slow 2s cubic-bezier(0, 0, 0.2, 1) infinite; }

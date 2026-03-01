@@ -1,0 +1,11 @@
+2. GeoLite2 database — it's not a pip package, it's a data file from MaxMind. You need a free account:
+
+Go to https://www.maxmind.com/en/geolite2/signup
+Sign up (free)
+Go to Download Files → download:
+
+GeoLite2-City.mmdb
+GeoLite2-ASN.mmdb
+
+
+Drop both files into app/data/
