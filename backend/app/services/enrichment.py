@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit - Enrichment Service
+SecToolkit 101 - Enrichment Service
 
 Orchestrates multiple external API calls for each target type.
 Returns combined results from all available APIs.

@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Network Engines (8 tools)
+SecToolkit 101 â€” Network Engines (8 tools)
 """
 import socket
 import ssl

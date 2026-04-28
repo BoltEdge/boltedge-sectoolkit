@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” DNS Propagation Engine
+SecToolkit 101 â€” DNS Propagation Engine
 
 Tool: Domain -> DNS Propagation
 Description: Check DNS propagation across global resolvers.

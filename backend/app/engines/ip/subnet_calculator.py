@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — Subnet Calculator Engine
+SecToolkit 101 — Subnet Calculator Engine
 
 Tool: IP → Subnet Calculator
 Description: Calculate IP subnets and network ranges.

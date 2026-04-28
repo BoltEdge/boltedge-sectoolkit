@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit - External API Clients
+SecToolkit 101 - External API Clients
 
 Shared API client classes for external threat intelligence services.
 All clients are optional - engines gracefully degrade if API keys are missing.

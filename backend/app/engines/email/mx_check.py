@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” MX Check Engine
+SecToolkit 101 â€” MX Check Engine
 """
 import smtplib
 import socket

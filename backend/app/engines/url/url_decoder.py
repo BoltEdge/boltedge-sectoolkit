@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” URL Decoder Engine
+SecToolkit 101 â€” URL Decoder Engine
 """
 from urllib.parse import unquote, unquote_plus, urlparse, parse_qs
 from app.utils.exceptions import InvalidInputError

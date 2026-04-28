@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Hash Comparer Engine
+SecToolkit 101 â€” Hash Comparer Engine
 """
 import hashlib
 from app.utils.exceptions import InvalidInputError

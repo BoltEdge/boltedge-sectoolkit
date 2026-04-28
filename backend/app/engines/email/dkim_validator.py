@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” DKIM Validator Engine
+SecToolkit 101 â€” DKIM Validator Engine
 """
 from app.engines.common.dns_resolver import DNSResolver
 from app.utils.exceptions import EngineError, EngineTimeoutError

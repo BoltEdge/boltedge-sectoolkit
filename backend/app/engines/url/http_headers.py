@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” HTTP Headers Engine
+SecToolkit 101 â€” HTTP Headers Engine
 """
 import httpx
 from app.utils.exceptions import EngineError, EngineTimeoutError

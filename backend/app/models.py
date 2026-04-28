@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — Database Models
+SecToolkit 101 — Database Models
 
 All SQLAlchemy models for threat feeds, WHOIS history,
 breach data, CVEs, and exploits.

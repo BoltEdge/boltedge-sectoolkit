@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const jetbrains = JetBrains_Mono({ subsets: ["latin"], variable: "--font-jetbrains" });
 
 export const metadata: Metadata = {
-  title: "BoltEdge SecToolkit — 91+ Security Tools. One Dashboard.",
+  title: "SecToolkit 101 — 91+ Security Tools. One Dashboard.",
   icons: {
     icon: "/favicon.svg",
   },

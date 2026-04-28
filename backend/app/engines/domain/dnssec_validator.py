@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” DNSSEC Validator Engine
+SecToolkit 101 â€” DNSSEC Validator Engine
 
 Tool: Domain -> DNSSEC Validator
 Description: Validate DNSSEC configuration.

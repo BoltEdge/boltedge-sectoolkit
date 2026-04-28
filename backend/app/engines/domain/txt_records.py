@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” TXT Records Engine
+SecToolkit 101 â€” TXT Records Engine
 
 Tool: Domain -> TXT Records
 Description: Look up TXT records.

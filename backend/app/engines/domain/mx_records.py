@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” MX Records Engine
+SecToolkit 101 â€” MX Records Engine
 
 Tool: Domain -> MX Records
 Description: Look up mail exchange records.

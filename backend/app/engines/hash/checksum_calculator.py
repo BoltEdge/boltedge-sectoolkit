@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Checksum Calculator Engine
+SecToolkit 101 â€” Checksum Calculator Engine
 """
 import hashlib
 import binascii

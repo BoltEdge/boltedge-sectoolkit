@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — IP Reputation Engine
+SecToolkit 101 — IP Reputation Engine
 
 Tool: IP → IP Reputation
 Description: Check IP reputation across threat feeds.

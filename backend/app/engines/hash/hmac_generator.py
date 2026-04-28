@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” HMAC Generator Engine
+SecToolkit 101 â€” HMAC Generator Engine
 """
 import hashlib
 import hmac

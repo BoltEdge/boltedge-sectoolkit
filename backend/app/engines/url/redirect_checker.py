@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Redirect Checker Engine
+SecToolkit 101 â€” Redirect Checker Engine
 """
 import httpx
 import time

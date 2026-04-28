@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — Application Entry Point
+SecToolkit 101 — Application Entry Point
 
 Usage:
     python manage.py              # Run dev server

@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Certificate Decoder Engine
+SecToolkit 101 â€” Certificate Decoder Engine
 """
 from datetime import datetime, timezone
 from cryptography import x509

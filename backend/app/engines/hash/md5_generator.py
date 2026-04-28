@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” MD5 Generator Engine
+SecToolkit 101 â€” MD5 Generator Engine
 """
 import hashlib
 from app.utils.exceptions import InvalidInputError

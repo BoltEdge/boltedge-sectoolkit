@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” URL Scanner Engine
+SecToolkit 101 â€” URL Scanner Engine
 """
 import httpx
 from urllib.parse import urlparse

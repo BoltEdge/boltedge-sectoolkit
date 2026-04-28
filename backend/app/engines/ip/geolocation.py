@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — IP Geolocation Engine
+SecToolkit 101 — IP Geolocation Engine
 
 Tool: IP → IP Geolocation
 Description: Locate IP addresses with detailed geographic information.

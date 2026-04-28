@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Domain WHOIS Engine
+SecToolkit 101 â€” Domain WHOIS Engine
 
 Tool: Domain -> Domain WHOIS
 Description: Query domain registration details.

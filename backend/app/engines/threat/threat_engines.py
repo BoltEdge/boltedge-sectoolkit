@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Threat Intel Engines (7 tools)
+SecToolkit 101 â€” Threat Intel Engines (7 tools)
 """
 from datetime import datetime, timezone
 from app.engines.common.dns_resolver import DNSResolver

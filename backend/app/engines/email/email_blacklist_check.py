@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Email Blacklist Check Engine
+SecToolkit 101 â€” Email Blacklist Check Engine
 """
 from app.engines.common.dns_resolver import DNSResolver
 from app.utils.exceptions import EngineError

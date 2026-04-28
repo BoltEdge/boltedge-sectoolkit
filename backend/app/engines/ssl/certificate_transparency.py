@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Certificate Transparency Engine (crt.sh)
+SecToolkit 101 â€” Certificate Transparency Engine (crt.sh)
 """
 import httpx
 from app.utils.exceptions import EngineError, EngineTimeoutError

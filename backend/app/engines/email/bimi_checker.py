@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” BIMI Checker Engine
+SecToolkit 101 â€” BIMI Checker Engine
 """
 from app.engines.common.dns_resolver import DNSResolver
 from app.utils.exceptions import EngineError, EngineTimeoutError

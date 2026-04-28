@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Zone Transfer Engine
+SecToolkit 101 â€” Zone Transfer Engine
 
 Tool: Domain -> Zone Transfer
 Description: Test for DNS zone transfer vulnerability.

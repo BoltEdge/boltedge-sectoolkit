@@ -89,7 +89,7 @@ export function ToolContent({ tool, categoryId, categoryColor }: ToolContentProp
             <p className="text-[15px] text-[#94a3b8]">{tool.description}</p>
           </div>
           <span className="flex-shrink-0 font-mono text-[9px] font-semibold uppercase tracking-widest text-[#d97706] border border-[#d97706]/15 bg-[#d97706]/[0.04] px-3 py-1.5 rounded-lg whitespace-nowrap">
-            &#9670; Powered by BoltEdge
+            &#9670; Powered by SecToolkit 101
           </span>
         </div>
 

@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” SSL Certificate Checker Engine
+SecToolkit 101 â€” SSL Certificate Checker Engine
 """
 import ssl
 import socket

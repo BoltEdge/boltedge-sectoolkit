@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — VPN Detection Engine
+SecToolkit 101 — VPN Detection Engine
 
 Tool: IP → VPN Detection
 Description: Detect VPN, proxy, and Tor usage for an IP address.

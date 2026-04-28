@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — Ping Test Engine
+SecToolkit 101 — Ping Test Engine
 
 Tool: IP → Ping Test
 Description: Test network connectivity to IP address.

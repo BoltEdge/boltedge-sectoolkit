@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Password Engines (5 tools)
+SecToolkit 101 â€” Password Engines (5 tools)
 """
 import secrets
 import string

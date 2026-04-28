@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — IP WHOIS Engine
+SecToolkit 101 — IP WHOIS Engine
 
 Tool: IP → IP WHOIS
 Description: Query IP registration and ownership details.

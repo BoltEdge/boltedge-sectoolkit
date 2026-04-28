@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — CIDR Calculator Engine
+SecToolkit 101 — CIDR Calculator Engine
 
 Tool: IP → CIDR Calculator
 Description: Convert between CIDR and subnet masks.

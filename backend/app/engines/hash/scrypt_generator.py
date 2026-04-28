@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” scrypt Generator Engine
+SecToolkit 101 â€” scrypt Generator Engine
 """
 import hashlib
 import os

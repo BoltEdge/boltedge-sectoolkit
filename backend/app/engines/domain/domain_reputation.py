@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Domain Reputation Engine
+SecToolkit 101 â€” Domain Reputation Engine
 
 Tool: Domain -> Domain Reputation
 Description: Check domain against threat intel feeds.

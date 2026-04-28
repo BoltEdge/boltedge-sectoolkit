@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” SHA Generator Engine
+SecToolkit 101 â€” SHA Generator Engine
 """
 import hashlib
 from app.utils.exceptions import InvalidInputError

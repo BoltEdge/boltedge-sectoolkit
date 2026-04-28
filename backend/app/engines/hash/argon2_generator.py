@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Argon2 Generator Engine
+SecToolkit 101 â€” Argon2 Generator Engine
 """
 from app.utils.exceptions import InvalidInputError, EngineError
 

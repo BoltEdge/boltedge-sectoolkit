@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — Input Validators
+SecToolkit 101 — Input Validators
 
 Validates and sanitises user input before passing to engines.
 Each validator returns the cleaned value or raises InvalidInputError.

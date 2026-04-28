@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” SSL Labs Test Engine (local grading)
+SecToolkit 101 â€” SSL Labs Test Engine (local grading)
 """
 import ssl
 import socket

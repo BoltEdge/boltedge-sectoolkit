@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — Health Check Route
+SecToolkit 101 — Health Check Route
 """
 from datetime import datetime, timezone
 from flask import Blueprint, jsonify

@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — PTR Lookup Engine
+SecToolkit 101 — PTR Lookup Engine
 
 Tool: IP → PTR Lookup
 Description: Query PTR records for IP addresses.

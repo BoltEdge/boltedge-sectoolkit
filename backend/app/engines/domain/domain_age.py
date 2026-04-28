@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Domain Age Engine
+SecToolkit 101 â€” Domain Age Engine
 
 Tool: Domain -> Domain Age
 Description: Check when a domain was registered.

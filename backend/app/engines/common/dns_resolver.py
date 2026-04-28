@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — Shared DNS Resolver
+SecToolkit 101 — Shared DNS Resolver
 
 Shared DNS helper used by multiple engines across categories:
   - IP: Reverse DNS, PTR Lookup, Blacklist Check

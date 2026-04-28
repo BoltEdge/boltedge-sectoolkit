@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” TLS Version Check Engine
+SecToolkit 101 â€” TLS Version Check Engine
 """
 import ssl
 import socket

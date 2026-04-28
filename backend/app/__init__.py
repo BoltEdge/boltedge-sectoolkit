@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Flask App Factory (Complete â€” 101 Tools)
+SecToolkit 101 â€” Flask App Factory (Complete â€” 101 Tools)
 """
 from flask import Flask
 from flask_cors import CORS

@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Subdomain Finder Engine
+SecToolkit 101 â€” Subdomain Finder Engine
 
 Tool: Domain -> Subdomain Finder
 Description: Discover subdomains for a domain.

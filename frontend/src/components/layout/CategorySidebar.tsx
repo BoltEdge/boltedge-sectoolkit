@@ -273,7 +273,7 @@ export function CategorySidebar() {
             </div>
             <div className="min-w-0">
               <div className="text-[13px] font-bold text-white leading-none truncate">
-                Bolt<span className="text-[#f97316]">Edge</span>
+                Sec<span className="text-[#f97316]">Toolkit</span>
               </div>
               <div className="text-[9px] font-mono font-semibold uppercase tracking-[0.08em] text-[#64748b] mt-0.5">
                 SecToolkit
@@ -334,8 +334,8 @@ export function CategorySidebar() {
           <Link href="/docs" className="flex items-center gap-3 px-4 py-2.5 mx-2 rounded-lg text-[#64748b] hover:text-[#94a3b8] hover:bg-white/[0.03] transition-all">
             <BookOpen size={18} /><span className="text-[13px] font-medium">API Docs</span>
           </Link>
-          <a href="https://boltedge.co" target="_blank" rel="noopener" className="flex items-center gap-3 px-4 py-2.5 mx-2 rounded-lg text-[#64748b] hover:text-[#94a3b8] hover:bg-white/[0.03] transition-all">
-            <ExternalLink size={18} /><span className="text-[13px] font-medium">boltedge.co</span>
+          <a href="https://sectoolkit101.com" target="_blank" rel="noopener" className="flex items-center gap-3 px-4 py-2.5 mx-2 rounded-lg text-[#64748b] hover:text-[#94a3b8] hover:bg-white/[0.03] transition-all">
+            <ExternalLink size={18} /><span className="text-[13px] font-medium">sectoolkit101.com</span>
           </a>
         </div>
 

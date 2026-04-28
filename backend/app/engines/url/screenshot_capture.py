@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Screenshot Capture Engine (metadata phase)
+SecToolkit 101 â€” Screenshot Capture Engine (metadata phase)
 """
 import httpx
 from urllib.parse import urlparse

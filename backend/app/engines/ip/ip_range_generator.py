@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — IP Range Generator Engine
+SecToolkit 101 — IP Range Generator Engine
 
 Tool: IP → IP Range Generator
 Description: Generate IP address ranges from CIDR notation.

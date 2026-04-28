@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Hash Reverser Engine
+SecToolkit 101 â€” Hash Reverser Engine
 """
 import hashlib
 from app.utils.exceptions import InvalidInputError

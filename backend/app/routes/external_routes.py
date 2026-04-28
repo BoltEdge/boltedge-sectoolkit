@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit - External API Routes
+SecToolkit 101 - External API Routes
 
 Provides:
     - GET /api/external/status - show which APIs are configured

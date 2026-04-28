@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Hash Tool Routes
+SecToolkit 101 â€” Hash Tool Routes
 """
 from flask import Blueprint
 from app.utils.formatters import timed_tool, get_target, get_options

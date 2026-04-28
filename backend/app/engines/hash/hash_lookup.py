@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Hash Lookup Engine
+SecToolkit 101 â€” Hash Lookup Engine
 """
 from app.utils.exceptions import EngineError
 from app.utils.validators import validate_hash, identify_hash_type

@@ -1,5 +1,5 @@
 /**
- * BoltEdge SecToolkit — Endpoint Mapping
+ * SecToolkit 101 — Endpoint Mapping
  *
  * Maps category + tool ID to Flask backend endpoint.
  * Used by ToolContent.tsx to make real API calls.

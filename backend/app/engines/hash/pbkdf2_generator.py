@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” PBKDF2 Generator Engine
+SecToolkit 101 â€” PBKDF2 Generator Engine
 """
 import hashlib
 import os

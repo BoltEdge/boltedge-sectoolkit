@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Header Analyser Engine
+SecToolkit 101 â€” Header Analyser Engine
 """
 import re
 from email.utils import parsedate_to_datetime

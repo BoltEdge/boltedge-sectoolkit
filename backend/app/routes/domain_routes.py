@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Domain Tool Routes
+SecToolkit 101 â€” Domain Tool Routes
 
 Endpoints: POST /api/domain/<tool>
 Tools: 12 Domain tools wired to their engines

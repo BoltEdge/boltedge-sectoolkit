@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Certificate Chain Engine
+SecToolkit 101 â€” Certificate Chain Engine
 """
 import ssl
 import socket

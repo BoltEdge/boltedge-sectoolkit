@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — Application Configuration
+SecToolkit 101 — Application Configuration
 """
 import os
 from pathlib import Path
@@ -68,7 +68,7 @@ class Config:
     # --- HTTP ---
     HTTP_TIMEOUT = 15
     MAX_REDIRECTS = 10
-    USER_AGENT = "BoltEdge-SecToolkit/1.0"
+    USER_AGENT = "SecToolkit101/1.0"
 
     # --- External API Keys (optional, loaded from env) ---
     ABUSEIPDB_API_KEY = os.getenv("ABUSEIPDB_API_KEY", "")
@@ -116,7 +116,7 @@ class ProductionConfig(Config):
     DEBUG = False
     SQLALCHEMY_DATABASE_URI = os.getenv("DATABASE_URL")
     RATELIMIT_STORAGE_URI = os.getenv("RATELIMIT_STORAGE_URI", "memory://")
-    CORS_ORIGINS = os.getenv("CORS_ORIGINS", "https://sectoolkit.boltedge.co").split(",")
+    CORS_ORIGINS = os.getenv("CORS_ORIGINS", "https://sectoolkit101.com").split(",")
 
     def __init__(self):
         if not self.SECRET_KEY or self.SECRET_KEY == "change-me-in-production":

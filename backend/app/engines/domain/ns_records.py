@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” NS Records Engine
+SecToolkit 101 â€” NS Records Engine
 
 Tool: Domain -> NS Records
 Description: Look up nameserver records.

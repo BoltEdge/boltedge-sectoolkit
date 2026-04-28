@@ -30,7 +30,7 @@ services:
       - FLASK_ENV=production
       - SECRET_KEY=${SECRET_KEY}
       - DATABASE_URL=postgresql://${POSTGRES_USER}:${POSTGRES_PASSWORD}@db:5432/${POSTGRES_DB}
-      - CORS_ORIGINS=https://sectoolkit.boltedge.co
+      - CORS_ORIGINS=https://sectoolkit101.com
       - VIRUSTOTAL_API_KEY=${VIRUSTOTAL_API_KEY:-}
       - ABUSEIPDB_API_KEY=${ABUSEIPDB_API_KEY:-}
       - SHODAN_API_KEY=${SHODAN_API_KEY:-}
@@ -47,7 +47,7 @@ services:
     build:
       context: ./frontend
       args:
-        NEXT_PUBLIC_API_URL: https://sectoolkit.boltedge.co/api
+        NEXT_PUBLIC_API_URL: https://sectoolkit101.com/api
     container_name: sectoolkit-frontend
     restart: unless-stopped
     depends_on:

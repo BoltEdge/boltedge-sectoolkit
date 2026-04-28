@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Hash Identifier Engine
+SecToolkit 101 â€” Hash Identifier Engine
 """
 import re
 from app.utils.exceptions import InvalidInputError

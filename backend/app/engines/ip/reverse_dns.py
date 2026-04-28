@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — Reverse DNS Engine
+SecToolkit 101 — Reverse DNS Engine
 
 Tool: IP → Reverse DNS
 Description: Perform reverse DNS lookup on IP addresses.

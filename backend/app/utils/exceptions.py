@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — Custom Exceptions
+SecToolkit 101 — Custom Exceptions
 """
 
 

@@ -15,7 +15,7 @@ export function ApiShowcase() {
               <span className="font-mono text-[10px] font-semibold uppercase tracking-[0.1em] text-[#d97706]">Request</span>
             </div>
             <pre className="font-mono text-[13px] leading-[1.8] text-[#94a3b8] whitespace-pre-wrap break-all">
-{`curl -X POST https://api.sectoolkit.boltedge.co/v1/ip/geolocation \\
+{`curl -X POST https://api.sectoolkit101.com/v1/ip/geolocation \\
   -H `}<span className="text-[#d97706]">{`"Authorization: Bearer YOUR_API_KEY"`}</span>{` \\
   -H `}<span className="text-[#d97706]">{`"Content-Type: application/json"`}</span>{` \\
   -d `}<span className="text-[#d97706]">{`'{"ip": "8.8.8.8"}'`}</span></pre>

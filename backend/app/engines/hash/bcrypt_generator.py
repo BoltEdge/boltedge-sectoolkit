@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” bcrypt Generator Engine
+SecToolkit 101 â€” bcrypt Generator Engine
 """
 import bcrypt
 from app.utils.exceptions import InvalidInputError, EngineError

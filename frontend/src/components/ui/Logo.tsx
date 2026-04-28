@@ -9,8 +9,8 @@ export function Logo({ size = "md" }: { size?: "sm" | "md" | "lg" }) {
         </svg>
       </div>
       <span className="text-[18px] font-bold tracking-tight">
-        <span className="text-white">Bolt</span>
-        <span className="text-[#d97706]">Edge</span>
+        <span className="text-white">Sec</span>
+        <span className="text-[#d97706]">Toolkit</span>
       </span>
       <span className="ml-1 rounded-[5px] border border-[#d97706]/25 bg-[#d97706]/[0.08] px-2.5 py-[3px] font-mono text-[9px] font-semibold uppercase tracking-[0.08em] text-[#d97706]">
         SecToolkit

@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” URL Reputation Engine
+SecToolkit 101 â€” URL Reputation Engine
 """
 from datetime import datetime, timezone
 from urllib.parse import urlparse

@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Encode/Decode Engines (14 tools)
+SecToolkit 101 â€” Encode/Decode Engines (14 tools)
 All encode/decode tools are client-side capable.
 """
 import base64

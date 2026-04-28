@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — Blacklist Check Engine
+SecToolkit 101 — Blacklist Check Engine
 
 Tool: IP → Blacklist Check
 Description: Check if IP is on email and security blacklists (DNSBLs).

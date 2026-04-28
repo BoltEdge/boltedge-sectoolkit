@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Threat Intel Tool Routes
+SecToolkit 101 â€” Threat Intel Tool Routes
 """
 from flask import Blueprint
 from app.utils.formatters import timed_tool, get_target, get_options

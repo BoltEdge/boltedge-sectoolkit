@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” DNS Lookup Engine
+SecToolkit 101 â€” DNS Lookup Engine
 
 Tool: Domain -> DNS Lookup
 Description: Query DNS records for any domain.

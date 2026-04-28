@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Open Graph Parser Engine
+SecToolkit 101 â€” Open Graph Parser Engine
 """
 import httpx
 from urllib.parse import urljoin

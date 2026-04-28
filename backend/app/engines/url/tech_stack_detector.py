@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Tech Stack Detector Engine
+SecToolkit 101 â€” Tech Stack Detector Engine
 """
 import httpx
 import re

@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — Port Scanner Engine
+SecToolkit 101 — Port Scanner Engine
 
 Tool: IP → Port Scanner
 Description: Scan common ports on target IP.

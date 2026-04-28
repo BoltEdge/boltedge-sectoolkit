@@ -1,5 +1,5 @@
 """
-BoltEdge SecToolkit — Response Formatters
+SecToolkit 101 — Response Formatters
 
 Standard response format:
   Success: { success: true, tool: "ip.geolocation", target: "8.8.8.8", timestamp: "...", duration_ms: 12, result: { ... } }

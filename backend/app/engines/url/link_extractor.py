@@ -1,5 +1,5 @@
 ﻿"""
-BoltEdge SecToolkit â€” Link Extractor Engine
+SecToolkit 101 â€” Link Extractor Engine
 """
 import httpx
 from urllib.parse import urlparse, urljoin
